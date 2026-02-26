@@ -1,0 +1,1082 @@
+{
+  "categories": [
+    {
+      "id": "shop",
+      "name": "独立站模版",
+      "description": "功能完善的电商独立站模板",
+      "icon": "ShoppingCart",
+      "templates": [
+        {
+          "id": "shop001",
+          "title": "SHOP001",
+          "image": "https://wp30.com/wp-content/uploads/2025/05/47Z.png",
+          "localImage": "/images/templates/47Z.png",
+          "demoUrl": "https://woodmart.xtemos.com/mega-electronics/",
+          "category": "shop"
+        },
+        {
+          "id": "shop002",
+          "title": "SHOP002",
+          "image": "https://wp30.com/wp-content/uploads/2025/05/108Z.png",
+          "localImage": "/images/templates/108Z.png",
+          "demoUrl": "https://woodmart.xtemos.com/megamarket/",
+          "category": "shop"
+        },
+        {
+          "id": "shop003",
+          "title": "SHOP003",
+          "image": "https://wp30.com/wp-content/uploads/2025/05/040Z.png",
+          "localImage": "/images/templates/040Z.png",
+          "demoUrl": "https://woodmart.xtemos.com/furniture2/",
+          "category": "shop"
+        },
+        {
+          "id": "shop004",
+          "title": "SHOP004",
+          "image": "https://wp30.com/wp-content/uploads/2025/05/82Z.png",
+          "localImage": "/images/templates/82Z.png",
+          "demoUrl": "https://woodmart.xtemos.com/demo-retail/demo/retail/",
+          "category": "shop"
+        },
+        {
+          "id": "shop005",
+          "title": "SHOP005",
+          "image": "https://wp30.com/wp-content/uploads/2025/05/115Z.png",
+          "localImage": "/images/templates/115Z.png",
+          "demoUrl": "https://woodmart.xtemos.com/accessories/",
+          "category": "shop"
+        },
+        {
+          "id": "shop006",
+          "title": "SHOP006",
+          "image": "https://wp30.com/wp-content/uploads/2025/05/930Z.png",
+          "localImage": "/images/templates/930Z.png",
+          "demoUrl": "https://woodmart.xtemos.com/games/",
+          "category": "shop"
+        },
+        {
+          "id": "shop007",
+          "title": "SHOP007",
+          "image": "https://wp30.com/wp-content/uploads/2025/05/077Z.png",
+          "localImage": "/images/templates/077Z.png",
+          "demoUrl": "https://woodmart.xtemos.com/games/home-dark/",
+          "category": "shop"
+        },
+        {
+          "id": "shop008",
+          "title": "SHOP008",
+          "image": "https://wp30.com/wp-content/uploads/2025/05/615Z.png",
+          "localImage": "/images/templates/615Z.png",
+          "demoUrl": "https://woodmart.xtemos.com/plants/",
+          "category": "shop"
+        },
+        {
+          "id": "shop009",
+          "title": "SHOP009",
+          "image": "https://wp30.com/wp-content/uploads/2025/05/684Z.png",
+          "localImage": "/images/templates/684Z.png",
+          "demoUrl": "https://woodmart.xtemos.com/demo-decor/demo/decor/",
+          "category": "shop"
+        },
+        {
+          "id": "shop010",
+          "title": "SHOP010",
+          "image": "https://wp30.com/wp-content/uploads/2025/05/93Z.png",
+          "localImage": "/images/templates/93Z.png",
+          "demoUrl": "https://woodmart.xtemos.com/demo-black-friday/demo/black-friday/",
+          "category": "shop"
+        },
+        {
+          "id": "shop011",
+          "title": "SHOP011",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-default-6.jpg",
+          "localImage": "/images/templates/demo-default-6.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/home/",
+          "category": "shop"
+        },
+        {
+          "id": "shop012",
+          "title": "SHOP012",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-megamarket-2-min-1.jpg",
+          "localImage": "/images/templates/demo-megamarket-2-min-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/marketplace2/",
+          "category": "shop"
+        },
+        {
+          "id": "shop013",
+          "title": "SHOP013",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/makeup-550x460-1.jpg",
+          "localImage": "/images/templates/makeup-550x460-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/makeup/",
+          "category": "shop"
+        },
+        {
+          "id": "shop014",
+          "title": "SHOP014",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-vegetables-1.jpg",
+          "localImage": "/images/templates/demo-vegetables-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/vegetables/",
+          "category": "shop"
+        },
+        {
+          "id": "shop015",
+          "title": "SHOP015",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-pottery-1.jpg",
+          "localImage": "/images/templates/demo-pottery-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/pottery/",
+          "category": "shop"
+        },
+        {
+          "id": "shop016",
+          "title": "SHOP016",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/handmade-bags.jpg",
+          "localImage": "/images/templates/handmade-bags.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/handmade-bags/",
+          "category": "shop"
+        },
+        {
+          "id": "shop017",
+          "title": "SHOP017",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/t-shirts-prints-large.jpg",
+          "localImage": "/images/templates/t-shirts-prints-large.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/t-shirts-prints/",
+          "category": "shop"
+        },
+        {
+          "id": "shop018",
+          "title": "SHOP018",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-pills-min-1.jpg",
+          "localImage": "/images/templates/demo-pills-min-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/pills/",
+          "category": "shop"
+        },
+        {
+          "id": "shop019",
+          "title": "SHOP019",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-organic-farm.jpg",
+          "localImage": "/images/templates/demo-organic-farm.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/organic-farm/",
+          "category": "shop"
+        },
+        {
+          "id": "shop020",
+          "title": "SHOP020",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/hemp-shoes.jpg",
+          "localImage": "/images/templates/hemp-shoes.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-hemp-shoes/demo/hemp-shoes/",
+          "category": "shop"
+        },
+        {
+          "id": "shop021",
+          "title": "SHOP021",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/barbershop-large.jpg",
+          "localImage": "/images/templates/barbershop-large.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/barbershop/",
+          "category": "shop"
+        },
+        {
+          "id": "shop022",
+          "title": "SHOP022",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-kids-1.jpg",
+          "localImage": "/images/templates/demo-kids-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/kids/",
+          "category": "shop"
+        },
+        {
+          "id": "shop023",
+          "title": "SHOP023",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-handmade.jpg",
+          "localImage": "/images/templates/demo-handmade.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/handmade/",
+          "category": "shop"
+        },
+        {
+          "id": "shop024",
+          "title": "SHOP024",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-fashion-minimalism-1.jpg",
+          "localImage": "/images/templates/demo-fashion-minimalism-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-fashion-minimalism/demo/fashion-minimalism/",
+          "category": "shop"
+        },
+        {
+          "id": "shop025",
+          "title": "SHOP025",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-fashion-color.jpg",
+          "localImage": "/images/templates/demo-fashion-color.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-fashion-colored/demo/fashion-colored/",
+          "category": "shop"
+        },
+        {
+          "id": "shop026",
+          "title": "SHOP026",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-marketplace.jpg",
+          "localImage": "/images/templates/demo-marketplace.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-marketplace/demo/marketplace/",
+          "category": "shop"
+        },
+        {
+          "id": "shop027",
+          "title": "SHOP027",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-electronics.jpg",
+          "localImage": "/images/templates/demo-electronics.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-electronics/demo/electronics/",
+          "category": "shop"
+        },
+        {
+          "id": "shop028",
+          "title": "SHOP028",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-glasses.jpg",
+          "localImage": "/images/templates/demo-glasses.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-glasses/demo/glasses/",
+          "category": "shop"
+        },
+        {
+          "id": "shop029",
+          "title": "SHOP029",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-retail-2.jpg",
+          "localImage": "/images/templates/demo-retail-2.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-retail-2/demo/retail-2/",
+          "category": "shop"
+        },
+        {
+          "id": "shop030",
+          "title": "SHOP030",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-tools.jpg",
+          "localImage": "/images/templates/demo-tools.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-tools/demo/tools/",
+          "category": "shop"
+        },
+        {
+          "id": "shop031",
+          "title": "SHOP031",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-coffee.jpg",
+          "localImage": "/images/templates/demo-coffee.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-coffee/demo/coffee/",
+          "category": "shop"
+        },
+        {
+          "id": "shop032",
+          "title": "SHOP032",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-electronics-2-1.jpg",
+          "localImage": "/images/templates/demo-electronics-2-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-electronics-2/demo/electronics-2/",
+          "category": "shop"
+        },
+        {
+          "id": "shop033",
+          "title": "SHOP033",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-fashion.jpg",
+          "localImage": "/images/templates/demo-fashion.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-fashion/demo/fashion/",
+          "category": "shop"
+        },
+        {
+          "id": "shop034",
+          "title": "SHOP034",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-books.jpg",
+          "localImage": "/images/templates/demo-books.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-books/demo/books/",
+          "category": "shop"
+        },
+        {
+          "id": "shop035",
+          "title": "SHOP035",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-shoes.jpg",
+          "localImage": "/images/templates/demo-shoes.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-shoes/demo/shoes/",
+          "category": "shop"
+        },
+        {
+          "id": "shop036",
+          "title": "SHOP036",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-sport.jpg",
+          "localImage": "/images/templates/demo-sport.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-sport/demo/sport/",
+          "category": "shop"
+        },
+        {
+          "id": "shop037",
+          "title": "SHOP037",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-hardware.jpg",
+          "localImage": "/images/templates/demo-hardware.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-hardware/?opt=hardware",
+          "category": "shop"
+        },
+        {
+          "id": "shop038",
+          "title": "SHOP038",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-food-1.jpg",
+          "localImage": "/images/templates/demo-food-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-food/demo/food/",
+          "category": "shop"
+        },
+        {
+          "id": "shop039",
+          "title": "SHOP039",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-fashion-flat.jpg",
+          "localImage": "/images/templates/demo-fashion-flat.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-fashion-flat/demo/flat/",
+          "category": "shop"
+        },
+        {
+          "id": "shop040",
+          "title": "SHOP040",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-bikes.jpg",
+          "localImage": "/images/templates/demo-bikes.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-bikes/demo/bikes/",
+          "category": "shop"
+        },
+        {
+          "id": "shop041",
+          "title": "SHOP041",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-wine.jpg",
+          "localImage": "/images/templates/demo-wine.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-wine/demo/wine/",
+          "category": "shop"
+        },
+        {
+          "id": "shop042",
+          "title": "SHOP042",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-lingerie.jpg",
+          "localImage": "/images/templates/demo-lingerie.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-lingerie/demo/lingerie/",
+          "category": "shop"
+        },
+        {
+          "id": "shop043",
+          "title": "SHOP043",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-watches-1.jpg",
+          "localImage": "/images/templates/demo-watches-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-watches/demo/watch/",
+          "category": "shop"
+        },
+        {
+          "id": "shop044",
+          "title": "SHOP044",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-motorcycle.jpg",
+          "localImage": "/images/templates/demo-motorcycle.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-motorcycle/demo/motorcycle/",
+          "category": "shop"
+        },
+        {
+          "id": "shop045",
+          "title": "SHOP045",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-minimalism.jpg",
+          "localImage": "/images/templates/demo-minimalism.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-minimalism/demo/minimalism/",
+          "category": "shop"
+        },
+        {
+          "id": "shop046",
+          "title": "SHOP046",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-grocery.jpg",
+          "localImage": "/images/templates/demo-grocery.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-grocery/demo/grocery/",
+          "category": "shop"
+        },
+        {
+          "id": "shop047",
+          "title": "SHOP047",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-cars.jpg",
+          "localImage": "/images/templates/demo-cars.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/home-cars/demo/cars/",
+          "category": "shop"
+        },
+        {
+          "id": "shop048",
+          "title": "SHOP048",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-bakery.jpg",
+          "localImage": "/images/templates/demo-bakery.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-sweets-bakery/demo/sweets-bakery/",
+          "category": "shop"
+        },
+        {
+          "id": "shop049",
+          "title": "SHOP049",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-drinks.jpg",
+          "localImage": "/images/templates/demo-drinks.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-drinks/demo/drinks/",
+          "category": "shop"
+        },
+        {
+          "id": "shop050",
+          "title": "SHOP050",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/medical-marijuana.jpg",
+          "localImage": "/images/templates/medical-marijuana.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-medical-marijuana/demo/medical-marijuana/",
+          "category": "shop"
+        },
+        {
+          "id": "shop051",
+          "title": "SHOP051",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-organic-1.jpg",
+          "localImage": "/images/templates/demo-organic-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-organic/demo/organic/",
+          "category": "shop"
+        },
+        {
+          "id": "shop052",
+          "title": "SHOP052",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-medical.jpg",
+          "localImage": "/images/templates/demo-medical.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-medical/demo/medical/",
+          "category": "shop"
+        },
+        {
+          "id": "shop053",
+          "title": "SHOP053",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-flowers.jpg",
+          "localImage": "/images/templates/demo-flowers.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-flowers/demo/flowers/",
+          "category": "shop"
+        },
+        {
+          "id": "shop054",
+          "title": "SHOP054",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-furniture.jpg",
+          "localImage": "/images/templates/demo-furniture.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-furniture/demo/furniture/",
+          "category": "shop"
+        },
+        {
+          "id": "shop055",
+          "title": "SHOP055",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-cosmetics.jpg",
+          "localImage": "/images/templates/demo-cosmetics.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-cosmetics/demo/cosmetics/",
+          "category": "shop"
+        },
+        {
+          "id": "shop056",
+          "title": "SHOP056",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-alternative-energy.jpg",
+          "localImage": "/images/templates/demo-alternative-energy.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-alternative-energy/demo/alternative-energy/",
+          "category": "shop"
+        },
+        {
+          "id": "shop057",
+          "title": "SHOP057",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-toys.jpg",
+          "localImage": "/images/templates/demo-toys.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-toys/demo/toys/",
+          "category": "shop"
+        },
+        {
+          "id": "shop058",
+          "title": "SHOP058",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-camping.jpg",
+          "localImage": "/images/templates/demo-camping.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-camping/demo/camping/",
+          "category": "shop"
+        },
+        {
+          "id": "shop059",
+          "title": "SHOP059",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-travel.jpg",
+          "localImage": "/images/templates/demo-travel.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-travel/demo/travel/",
+          "category": "shop"
+        },
+        {
+          "id": "shop060",
+          "title": "SHOP060",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-jewellery.jpg",
+          "localImage": "/images/templates/demo-jewellery.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-jewellery/demo/jewellery/",
+          "category": "shop"
+        },
+        {
+          "id": "shop061",
+          "title": "SHOP061",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/maintenance-xmas-1.jpg",
+          "localImage": "/images/templates/maintenance-xmas-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-christmas/demo/christmas/",
+          "category": "shop"
+        },
+        {
+          "id": "shop062",
+          "title": "SHOP062",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/food-delivery.jpg",
+          "localImage": "/images/templates/food-delivery.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-food-delivery/demo/food-delivery/",
+          "category": "shop"
+        },
+        {
+          "id": "shop063",
+          "title": "SHOP063",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/event-agency.jpg",
+          "localImage": "/images/templates/event-agency.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-event-agency/demo/event-agency/",
+          "category": "shop"
+        },
+        {
+          "id": "shop064",
+          "title": "SHOP064",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/architecture-studio.jpg",
+          "localImage": "/images/templates/architecture-studio.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-architecture-studio/demo/architecture-studio/",
+          "category": "shop"
+        },
+        {
+          "id": "shop065",
+          "title": "SHOP065",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/developer.jpg",
+          "localImage": "/images/templates/developer.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-developer/demo/developer/",
+          "category": "shop"
+        },
+        {
+          "id": "shop066",
+          "title": "SHOP066",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-repair.jpg",
+          "localImage": "/images/templates/demo-repair.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-repair/demo/repair/",
+          "category": "shop"
+        },
+        {
+          "id": "shop067",
+          "title": "SHOP067",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-lawyers.jpg",
+          "localImage": "/images/templates/demo-lawyers.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-lawyer/demo/lawyer/",
+          "category": "shop"
+        },
+        {
+          "id": "shop068",
+          "title": "SHOP068",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-corporate-2.jpg",
+          "localImage": "/images/templates/demo-corporate-2.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-corporate-2/demo/corporate-2/",
+          "category": "shop"
+        },
+        {
+          "id": "shop069",
+          "title": "SHOP069",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demos-smart-home.jpg",
+          "localImage": "/images/templates/demos-smart-home.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-smart-home/demo/smart-home/",
+          "category": "shop"
+        },
+        {
+          "id": "shop070",
+          "title": "SHOP070",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demos-school.jpg",
+          "localImage": "/images/templates/demos-school.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-school/demo/school/",
+          "category": "shop"
+        },
+        {
+          "id": "shop071",
+          "title": "SHOP071",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-beauty.jpg",
+          "localImage": "/images/templates/demo-beauty.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-beauty/demo/beauty/",
+          "category": "shop"
+        },
+        {
+          "id": "shop072",
+          "title": "SHOP072",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-real-estate.jpg",
+          "localImage": "/images/templates/demo-real-estate.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-real-estate/demo/real-estate/",
+          "category": "shop"
+        },
+        {
+          "id": "shop073",
+          "title": "SHOP073",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-landing-gadget.jpg",
+          "localImage": "/images/templates/demo-landing-gadget.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-landing-gadget/demo/landing-gadget/",
+          "category": "shop"
+        },
+        {
+          "id": "shop074",
+          "title": "SHOP074",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-corporate.jpg",
+          "localImage": "/images/templates/demo-corporate.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-corporate/demo/corporate/",
+          "category": "shop"
+        },
+        {
+          "id": "shop075",
+          "title": "SHOP075",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-magazine.jpg",
+          "localImage": "/images/templates/demo-magazine.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/magazine/",
+          "category": "shop"
+        },
+        {
+          "id": "shop076",
+          "title": "SHOP076",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-digitals-1.jpg",
+          "localImage": "/images/templates/demo-digitals-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-digitals/demo/digitals/",
+          "category": "shop"
+        },
+        {
+          "id": "shop077",
+          "title": "SHOP077",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-mobile-app.jpg",
+          "localImage": "/images/templates/demo-mobile-app.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-mobile-app/?opt=mobile_app",
+          "category": "shop"
+        },
+        {
+          "id": "shop078",
+          "title": "SHOP078",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-dark.jpg",
+          "localImage": "/images/templates/demo-dark.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/demo-dark/?opt=dark",
+          "category": "shop"
+        },
+        {
+          "id": "shop079",
+          "title": "SHOP079",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/demo-rtl.jpg",
+          "localImage": "/images/templates/demo-rtl.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/home-rtl/?rtl",
+          "category": "shop"
+        },
+        {
+          "id": "shop080",
+          "title": "SHOP080",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/basic-1.jpg",
+          "localImage": "/images/templates/basic-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/layout-basic/?opt=layout_basic",
+          "category": "shop"
+        },
+        {
+          "id": "shop081",
+          "title": "SHOP081",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/layout-boxed.jpg",
+          "localImage": "/images/templates/layout-boxed.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/layout-boxed/?opt=layout_boxed",
+          "category": "shop"
+        },
+        {
+          "id": "shop082",
+          "title": "SHOP082",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/categories.jpg",
+          "localImage": "/images/templates/categories.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/layout-categories/?opt=layout_categories",
+          "category": "shop"
+        },
+        {
+          "id": "shop083",
+          "title": "SHOP083",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/landing.jpg",
+          "localImage": "/images/templates/landing.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/landing/?opt=layout_landing",
+          "category": "shop"
+        },
+        {
+          "id": "shop084",
+          "title": "SHOP084",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/lookbook.jpg",
+          "localImage": "/images/templates/lookbook.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/layout-lookbook/?opt=layout_lookbook",
+          "category": "shop"
+        },
+        {
+          "id": "shop085",
+          "title": "SHOP085",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/video-1.jpg",
+          "localImage": "/images/templates/video-1.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/layout-video/?opt=layout_video",
+          "category": "shop"
+        },
+        {
+          "id": "shop086",
+          "title": "SHOP086",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/parallax.jpg",
+          "localImage": "/images/templates/parallax.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/layout-parallax/?opt=layout_parallax",
+          "category": "shop"
+        },
+        {
+          "id": "shop087",
+          "title": "SHOP087",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/infinite-scrolling.jpg",
+          "localImage": "/images/templates/infinite-scrolling.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/infinite-scrolling/?opt=layout_infinite",
+          "category": "shop"
+        },
+        {
+          "id": "shop088",
+          "title": "SHOP088",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/grid.jpg",
+          "localImage": "/images/templates/grid.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/layout-grid-2/?opt=layout_grid2",
+          "category": "shop"
+        },
+        {
+          "id": "shop089",
+          "title": "SHOP089",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/digital-portfolio.jpg",
+          "localImage": "/images/templates/digital-portfolio.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/layout-digital-portfolio/?opt=layout_digital_portfolio",
+          "category": "shop"
+        },
+        {
+          "id": "shop090",
+          "title": "SHOP090",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/maintenance-xmass.jpg",
+          "localImage": "/images/templates/maintenance-xmass.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/christmas-maintenance/?opt=maintenance_xmas",
+          "category": "shop"
+        },
+        {
+          "id": "shop091",
+          "title": "SHOP091",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/maintenance.jpg",
+          "localImage": "/images/templates/maintenance.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/maintenance/?opt=maintenance",
+          "category": "shop"
+        },
+        {
+          "id": "shop092",
+          "title": "SHOP092",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/maintenance-2.jpg",
+          "localImage": "/images/templates/maintenance-2.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/maintenance-2/?opt=maintenance2",
+          "category": "shop"
+        },
+        {
+          "id": "shop093",
+          "title": "SHOP093",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/maintenance-3.jpg",
+          "localImage": "/images/templates/maintenance-3.jpg",
+          "demoUrl": "https://woodmart.xtemos.com/maintenance-3/?demo=fashion-colored&opt=disable_popup",
+          "category": "shop"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "企业站模版",
+      "description": "专业的企业官网模板",
+      "icon": "Building2",
+      "templates": [
+        {
+          "id": "inc001",
+          "title": "INC001",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/ai-software.webp",
+          "localImage": "/images/templates/ai-software.webp",
+          "demoUrl": "https://outgrid.uicore.co/ai-software/",
+          "category": "company"
+        },
+        {
+          "id": "inc002",
+          "title": "INC002",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/biotech-company.webp",
+          "localImage": "/images/templates/biotech-company.webp",
+          "demoUrl": "https://outgrid.uicore.co/biotech-company/",
+          "category": "company"
+        },
+        {
+          "id": "inc003",
+          "title": "INC003",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/car-loan.webp",
+          "localImage": "/images/templates/car-loan.webp",
+          "demoUrl": "https://outgrid.uicore.co/car-loan/",
+          "category": "company"
+        },
+        {
+          "id": "inc004",
+          "title": "INC004",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/charging-solutions.webp",
+          "localImage": "/images/templates/charging-solutions.webp",
+          "demoUrl": "https://outgrid.uicore.co/charging-solutions/",
+          "category": "company"
+        },
+        {
+          "id": "inc005",
+          "title": "INC005",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/chatbot.webp",
+          "localImage": "/images/templates/chatbot.webp",
+          "demoUrl": "https://outgrid.uicore.co/chatbot/",
+          "category": "company"
+        },
+        {
+          "id": "inc006",
+          "title": "INC006",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/cleaning-company.webp",
+          "localImage": "/images/templates/cleaning-company.webp",
+          "demoUrl": "https://outgrid.uicore.co/cleaning-company/",
+          "category": "company"
+        },
+        {
+          "id": "inc007",
+          "title": "INC007",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/cloud-solutions.webp",
+          "localImage": "/images/templates/cloud-solutions.webp",
+          "demoUrl": "https://outgrid.uicore.co/cloud-solutions/",
+          "category": "company"
+        },
+        {
+          "id": "inc008",
+          "title": "INC008",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/copywriting-tools.webp",
+          "localImage": "/images/templates/copywriting-tools.webp",
+          "demoUrl": "https://outgrid.uicore.co/corporate/",
+          "category": "company"
+        },
+        {
+          "id": "inc009",
+          "title": "INC009",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/creative-agency.webp",
+          "localImage": "/images/templates/creative-agency.webp",
+          "demoUrl": "https://outgrid.uicore.co/creative-agency/",
+          "category": "company"
+        },
+        {
+          "id": "inc010",
+          "title": "INC010",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/crypto-app.webp",
+          "localImage": "/images/templates/crypto-app.webp",
+          "demoUrl": "https://outgrid.uicore.co/crypto-app/",
+          "category": "company"
+        },
+        {
+          "id": "inc011",
+          "title": "INC011",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/crypto-wallet.webp",
+          "localImage": "/images/templates/crypto-wallet.webp",
+          "demoUrl": "https://outgrid.uicore.co/crypto-wallet/",
+          "category": "company"
+        },
+        {
+          "id": "inc012",
+          "title": "INC012",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/cybersecurity.webp",
+          "localImage": "/images/templates/cybersecurity.webp",
+          "demoUrl": "https://outgrid.uicore.co/cybersecurity/",
+          "category": "company"
+        },
+        {
+          "id": "inc013",
+          "title": "INC013",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/digital-agency-2.webp",
+          "localImage": "/images/templates/digital-agency-2.webp",
+          "demoUrl": "https://outgrid.uicore.co/digital-agency-2/",
+          "category": "company"
+        },
+        {
+          "id": "inc014",
+          "title": "INC014",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/elearning.webp",
+          "localImage": "/images/templates/elearning.webp",
+          "demoUrl": "https://outgrid.uicore.co/elearning/",
+          "category": "company"
+        },
+        {
+          "id": "inc015",
+          "title": "INC015",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/electric-scooter.webp",
+          "localImage": "/images/templates/electric-scooter.webp",
+          "demoUrl": "https://outgrid.uicore.co/electric-scooter/",
+          "category": "company"
+        },
+        {
+          "id": "inc016",
+          "title": "INC016",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/electric-vehicle-renting.webp",
+          "localImage": "/images/templates/electric-vehicle-renting.webp",
+          "demoUrl": "https://outgrid.uicore.co/electric-vehicle-renting/",
+          "category": "company"
+        },
+        {
+          "id": "inc017",
+          "title": "INC017",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/finance-app.webp",
+          "localImage": "/images/templates/finance-app.webp",
+          "demoUrl": "https://outgrid.uicore.co/finance-app/",
+          "category": "company"
+        },
+        {
+          "id": "inc018",
+          "title": "INC018",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/financial-consulting.webp",
+          "localImage": "/images/templates/financial-consulting.webp",
+          "demoUrl": "https://outgrid.uicore.co/financial-consulting/",
+          "category": "company"
+        },
+        {
+          "id": "inc019",
+          "title": "INC019",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/financial-solutions.webp",
+          "localImage": "/images/templates/financial-solutions.webp",
+          "demoUrl": "https://outgrid.uicore.co/financial-solutions/",
+          "category": "company"
+        },
+        {
+          "id": "inc020",
+          "title": "INC020",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/green-tech.webp",
+          "localImage": "/images/templates/green-tech.webp",
+          "demoUrl": "https://outgrid.uicore.co/green-tech/",
+          "category": "company"
+        },
+        {
+          "id": "inc021",
+          "title": "INC021",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/growth-marketing.webp",
+          "localImage": "/images/templates/growth-marketing.webp",
+          "demoUrl": "https://outgrid.uicore.co/growth-marketing/",
+          "category": "company"
+        },
+        {
+          "id": "inc022",
+          "title": "INC022",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/handyman.webp",
+          "localImage": "/images/templates/handyman.webp",
+          "demoUrl": "https://outgrid.uicore.co/handyman/",
+          "category": "company"
+        },
+        {
+          "id": "inc023",
+          "title": "INC023",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/hosting.webp",
+          "localImage": "/images/templates/hosting.webp",
+          "demoUrl": "https://outgrid.uicore.co/hosting/",
+          "category": "company"
+        },
+        {
+          "id": "inc024",
+          "title": "INC024",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/internet-marketing.webp",
+          "localImage": "/images/templates/internet-marketing.webp",
+          "demoUrl": "https://outgrid.uicore.co/internet-marketing/",
+          "category": "company"
+        },
+        {
+          "id": "inc025",
+          "title": "INC025",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/it-business.webp",
+          "localImage": "/images/templates/it-business.webp",
+          "demoUrl": "https://outgrid.uicore.co/it-business/",
+          "category": "company"
+        },
+        {
+          "id": "inc026",
+          "title": "INC026",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/legal-services.webp",
+          "localImage": "/images/templates/legal-services.webp",
+          "demoUrl": "https://outgrid.uicore.co/legal-services/",
+          "category": "company"
+        },
+        {
+          "id": "inc027",
+          "title": "INC027",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/life-coach.webp",
+          "localImage": "/images/templates/life-coach.webp",
+          "demoUrl": "https://outgrid.uicore.co/life-coach/",
+          "category": "company"
+        },
+        {
+          "id": "inc028",
+          "title": "INC028",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/marketing-agency.webp",
+          "localImage": "/images/templates/marketing-agency.webp",
+          "demoUrl": "https://outgrid.uicore.co/marketing-agency/",
+          "category": "company"
+        },
+        {
+          "id": "inc029",
+          "title": "INC029",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/marketing-automation.webp",
+          "localImage": "/images/templates/marketing-automation.webp",
+          "demoUrl": "https://outgrid.uicore.co/marketing-automation/",
+          "category": "company"
+        },
+        {
+          "id": "inc030",
+          "title": "INC030",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/mobile-app.webp",
+          "localImage": "/images/templates/mobile-app.webp",
+          "demoUrl": "https://outgrid.uicore.co/mobile-app/",
+          "category": "company"
+        },
+        {
+          "id": "inc031",
+          "title": "INC031",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/modern-business.webp",
+          "localImage": "/images/templates/modern-business.webp",
+          "demoUrl": "https://outgrid.uicore.co/modern-business/",
+          "category": "company"
+        },
+        {
+          "id": "inc032",
+          "title": "INC032",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/moving-services.webp",
+          "localImage": "/images/templates/moving-services.webp",
+          "demoUrl": "https://outgrid.uicore.co/moving-services/",
+          "category": "company"
+        },
+        {
+          "id": "inc033",
+          "title": "INC033",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/software.webp",
+          "localImage": "/images/templates/software.webp",
+          "demoUrl": "https://outgrid.uicore.co/software/",
+          "category": "company"
+        },
+        {
+          "id": "inc034",
+          "title": "INC034",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/beauty-products.webp",
+          "localImage": "/images/templates/beauty-products.webp",
+          "demoUrl": "https://outgrid.uicore.co/beauty-products/",
+          "category": "company"
+        }
+      ]
+    },
+    {
+      "id": "blog",
+      "name": "博客模版",
+      "description": "简洁优雅的博客模板",
+      "icon": "BookOpen",
+      "templates": [
+        {
+          "id": "blog001",
+          "title": "BLOG001",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/微2222717.jpg",
+          "localImage": "/images/templates/_E5_BE_AE2222717.jpg",
+          "demoUrl": "https://arikon.jubix.store/",
+          "category": "blog"
+        },
+        {
+          "id": "blog002",
+          "title": "BLOG002",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/619183604.jpg",
+          "localImage": "/images/templates/619183604.jpg",
+          "demoUrl": "https://arikon.jubix.store/",
+          "category": "blog"
+        },
+        {
+          "id": "blog3",
+          "title": "BLOG003",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/yangmao.png",
+          "localImage": "/images/templates/yangmao.png",
+          "demoUrl": "https://yangmao.ca/",
+          "category": "blog"
+        },
+        {
+          "id": "blog004",
+          "title": "BLOG004",
+          "image": "https://wp30.com/wp-content/uploads/2025/06/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736f6c737469636532332f63646e406d61737465722f6172676f6e2d72656e6465722d736d616c6c2d332e6a7067.jpg",
+          "localImage": "/images/templates/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736f6c737469636532332f63646e406d61737465722f6172676f6e2d72656e6465722d736d616c6c2d332e6a7067.jpg",
+          "demoUrl": "https://blog.xmgspace.me/",
+          "category": "blog"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total": 131,
+    "shop": 93,
+    "company": 34,
+    "blog": 4
+  }
+}
