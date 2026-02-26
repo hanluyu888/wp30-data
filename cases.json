@@ -54,22 +54,6 @@
           "completedAt": ""
         },
         {
-          "id": "case_millies%e8%87%aa%e8%90%a5%e7%89%a9%e6%b5%81",
-          "title": "Millies自营物流",
-          "subtitle": "",
-          "description": "",
-          "category": "企业官网",
-          "tags": [
-            "企业官网"
-          ],
-          "image": "https://res.cloudinary.com/dvioxmz09/image/upload/v1772088411/wp30/cases/bykruntnuetjgadzh70b.png",
-          "localImage": "/images/cases/Millie.png",
-          "url": "https://millieslogistics.com/",
-          "status": "online",
-          "features": [],
-          "completedAt": ""
-        },
-        {
           "id": "case_%e6%b4%9b%e6%9d%89%e7%9f%b6%e7%a9%ba%e8%b0%83%e7%bb%b4%e4%bf%ae",
           "title": "洛杉矶空调维修",
           "subtitle": "",
@@ -510,8 +494,8 @@
     }
   ],
   "summary": {
-    "total": 31,
-    "corporate": 25,
+    "total": 30,
+    "corporate": 24,
     "blog": 6,
     "shop": 0,
     "b2b": 0
