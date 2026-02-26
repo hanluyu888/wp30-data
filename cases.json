@@ -6,22 +6,6 @@
       "icon": "Building2",
       "cases": [
         {
-          "id": "case_%e5%b8%b8%e5%b7%9e%e6%98%8e%e5%ae%8f%e7%94%b5%e5%99%a8",
-          "title": "常州明宏电器",
-          "subtitle": "",
-          "description": "",
-          "category": "企业官网",
-          "tags": [
-            "企业官网"
-          ],
-          "image": "https://res.cloudinary.com/dvioxmz09/image/upload/v1772088354/wp30/cases/jrad0dtksyf667fkrvin.png",
-          "localImage": "/images/cases/minghong-scaled.png",
-          "url": "https://www.czmhdq.com/",
-          "status": "online",
-          "features": [],
-          "completedAt": ""
-        },
-        {
           "id": "case_matina%e4%b8%96%e7%95%8c",
           "title": "Matina世界",
           "subtitle": "",
@@ -33,6 +17,22 @@
           "image": "https://res.cloudinary.com/dvioxmz09/image/upload/v1772088374/wp30/cases/ndwzydulllmikfcn74g7.png",
           "localImage": "/images/cases/matina-scaled.png",
           "url": "https://martinaworld.com/",
+          "status": "online",
+          "features": [],
+          "completedAt": ""
+        },
+        {
+          "id": "case_%e5%b8%b8%e5%b7%9e%e6%98%8e%e5%ae%8f%e7%94%b5%e5%99%a8",
+          "title": "常州明宏电器",
+          "subtitle": "",
+          "description": "",
+          "category": "企业官网",
+          "tags": [
+            "企业官网"
+          ],
+          "image": "https://res.cloudinary.com/dvioxmz09/image/upload/v1772088354/wp30/cases/jrad0dtksyf667fkrvin.png",
+          "localImage": "/images/cases/minghong-scaled.png",
+          "url": "https://www.czmhdq.com/",
           "status": "online",
           "features": [],
           "completedAt": ""
