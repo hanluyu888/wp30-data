@@ -403,17 +403,6 @@
           "status": "online",
           "features": [],
           "completedAt": ""
-        },
-        {
-          "id": "case_1772093592419",
-          "title": "新案例测试",
-          "category": "企业官网",
-          "description": "1111111111111111111",
-          "image": "https://res.cloudinary.com/dvioxmz09/image/upload/v1772093662/cases/qy5yucqpehheqtlyhdss.jpg",
-          "url": "https://baidu.com",
-          "tags": [
-            "企业官网"
-          ]
         }
       ]
     },
@@ -521,8 +510,8 @@
     }
   ],
   "summary": {
-    "total": 32,
-    "corporate": 26,
+    "total": 31,
+    "corporate": 25,
     "blog": 6,
     "shop": 0,
     "b2b": 0
